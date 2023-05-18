@@ -7,14 +7,14 @@ package software1;
 import java.util.*;
 import java.lang.String;
 /**
- *
+ *pull Demo
  * @author Nehal Patel
  */
 public class ReverseString {
     public static void main(String[] args) {
 
         Scanner read=new Scanner(System.in);
-                System.out.print("Enter any String: ");
+                System.out.print("Enter any String to Reverse: ");
         String str=read.next();
         char ar[]=new char[str.length()];
         
